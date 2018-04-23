@@ -13,5 +13,3 @@ you can also rename a file if it is a duplicate
 PUT = Upload (client's point of view) Get = Download(client's point of view) LIST will list all files in the directory
 
 to make transfer faster decrease the window sizes to 1 , and make drop and error rate 0( I may have hard coded some things to make testing faster)
-
-Have fun
